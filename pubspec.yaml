@@ -3,7 +3,7 @@ description: Plugin that allow Flutter to communicate with a native Webview.
 authors:
 - yyc <yangcheng_vip1@163.com>
 
-homepage: https://github.com/ashawn/flutter_webview_plugin
+homepage: https://github.com/whitekyo/pa_webview_plugin
 version: 0.1.0
 maintainer: ashawn
 
